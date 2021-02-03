@@ -1,3 +1,5 @@
+# To be updated for new TestDrive environment.
+
 #### *Note that this project is for educational purposes only, and is meant to demonstrate what you can do with Pure. These playbooks and scripts have been developed only for use only in Pure Test Drive. You're free to adapt them to your environment, but you're responsible for testing and overall functionality. Have fun!*
 
 
